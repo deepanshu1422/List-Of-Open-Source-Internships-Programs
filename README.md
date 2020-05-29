@@ -1,3 +1,6 @@
+This repo is being continuouly updated by me as @tapeswinpatak is unable to merge more follow request and has discontinued https://github.com/tapaswenipathak/Open-Source-Programs
+
+All PR's are now being entertained ,Please star this repo in order to get further updates
 
 
 | Name                                    | Stipend | Timeline            |
