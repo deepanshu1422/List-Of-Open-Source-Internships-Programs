@@ -53,7 +53,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 
 | Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
-| [GCI](https://codein.withgoogle.com/archive/) | Prizes for winners | [timeline](https://developers.google.com/open-source/gci/timeline) |
+
 | [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss) | Prizes for winners*|[timeline](https://lab.codingblocks.com/boss#rules-and-eligibility)  |
 | [FOSSASIA Codeheat](https://codeheat.org/) | Prizes for winners| [timeline](https://codeheat.org/#timeline)|
 | [Data Driven Competitions](https://www.drivendata.org/competitions/) | Cash prizes for winners|[timeline](https://www.drivendata.org/competitions/) |
