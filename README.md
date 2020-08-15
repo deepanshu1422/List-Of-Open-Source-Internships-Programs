@@ -45,6 +45,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/)  | Yes |  |
 | [PClub Summer Of Code](http://pclubsummerofcode.in/) | No | |
 | [RubyMe Mentorship Program](http://rubyme.org/) | Yes | |
+| [Vectorised IO*](https://vectorized.io/scholarship/) | Yes | |
 
 * *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
 * ** OSoC is only open to Belgian students.
