@@ -21,7 +21,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 |[Julia Summer of Code](https://julialang.org/soc/ideas-page)|Yes|[timeline](https://julialang.org/soc/guidelines/)|
 |[OWASP Code Sprint](https://www.owasp.org/index.php/GSoC2019_Ideas)|Yes|[timeline](https://www.owasp.org/index.php/GSoC)|
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  |
-| [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes | [timeline](https://www.radare.org/r/rsoc.html#schedule) |
+| [Radare Summer of Code](https://rada.re/gsoc/2020/) | Yes | [timeline](https://rada.re/gsoc/2020/) |
 | [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   |
 | [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/projects/internship-program) | Yes |  |
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |  |
