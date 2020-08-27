@@ -17,8 +17,8 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [ LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) |
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*| [timeline](https://www.dataone.org/internships)  |
-|[Julia Summer of Code](https://julialang.org/soc/ideas-page)|Yes|[timeline](https://julialang.org/soc/guidelines/)|
-|[OWASP Code Sprint](https://www.owasp.org/index.php/GSoC2019_Ideas)|Yes|[timeline](https://www.owasp.org/index.php/GSoC)|
+| [Julia Summer of Code](https://julialang.org/soc/ideas-page)|Yes|[timeline](https://julialang.org/soc/guidelines/)|
+| [OWASP Code Sprint](https://www.owasp.org/index.php/GSoC2019_Ideas)|Yes|[timeline](https://www.owasp.org/index.php/GSoC)|
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  |
 | [Radare Summer of Code](https://rada.re/gsoc/2020/) | Yes | [timeline](https://rada.re/gsoc/2020/) |
 | [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   |
@@ -33,7 +33,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |  |
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes | [timeline](https://erpnext.org/esoc#timeline) |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     |
-|[Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://milleniumfellows.org/the-program)| 
+| [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.milleniumfellows.org/the-program)| 
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |[timeline](https://wiki.gnome.org/Internships#Timeline)  |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |[timeline](https://www.igalia.com/about-us/coding-experience) |
