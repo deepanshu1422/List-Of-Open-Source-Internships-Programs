@@ -10,7 +10,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes | [timeline](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017#Timeplan) |
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) |
 | [RGSOC](http://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |
-|[Tweag I/O Summer Internship](https://www.tweag.io/posts/2019-03-11-internships.html)|Yes|[timeline](https://www.tweag.io/posts/2019-03-11-internships.html#time)|
+| [Tweag I/O Summer Internship](https://www.tweag.io/posts/2019-03-11-internships.html)|Yes|[timeline](https://www.tweag.io/posts/2019-03-11-internships.html#time)|
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes | [timeline](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) |
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://developers.google.com/open-source/gsoc/timeline)       |
 | [SOCIS](https://socis.esa.int/) | Yes | [timeline](https://socis.esa.int/timeline/)   |
