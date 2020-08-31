@@ -5,6 +5,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 
 | Name                                    | Stipend | Timeline            |
 |-----------------------------------------|-------------|-----------------|
+| [MLH Open Source Fellowship](https://fellowship.mlh.io/) | Yes | [timeline](https://fellowship.mlh.io/programs/open-source) |
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) |
 | [Season of KDE](https://season.kde.org) | No      | [timeline](https://dot.kde.org/2017/11/19/announcing-season-kde-2018) |
 | [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes | [timeline](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017#Timeplan) |
