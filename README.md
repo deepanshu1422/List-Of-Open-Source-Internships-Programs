@@ -81,3 +81,4 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [FOSSEE Summer Fellowship](https://fossee.in/) | No |   |
 | [DAWOC](https://dawoc.herokuapp.com/) | No  |    |
 | [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
+| [Semester Long Projects](https://slop.dscdaiict.in/) (SLoP by DAIICT) | Prizes, swag rewards and internship opportunities for winners|  |
