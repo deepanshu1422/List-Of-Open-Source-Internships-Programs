@@ -27,7 +27,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |  |
 | [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes | [timeline](https://open.segment.com/fellowship/#details)     |
 | [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes | [timeline](https://rare-technologies.com/incubator/#details)    |
-| [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://2019.summerofcode.be/practical.html)|
+| [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://summerofcode.be/practical)|
 | [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     |
 | [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) |
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
