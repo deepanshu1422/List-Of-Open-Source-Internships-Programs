@@ -13,7 +13,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [RGSOC](http://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |
 | [Tweag I/O Summer Internship](https://www.tweag.io/posts/2019-03-11-internships.html)|Yes|[timeline](https://www.tweag.io/posts/2019-03-11-internships.html#time)|
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes | [timeline](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) |
-| [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://developers.google.com/open-source/gsoc/timeline)       |
+| [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)      |
 | [SOCIS](https://socis.esa.int/) | Yes | [timeline](https://socis.esa.int/timeline/)   |
 | [ LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) |
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
@@ -38,7 +38,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |[timeline](https://wiki.gnome.org/Internships#Timeline)  |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |[timeline](https://www.igalia.com/about-us/coding-experience) |
-| [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline?authuser=0) |
+| [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline) |
 | [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) |
 | [ICFOSS Fellowship Programme](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  | Yes  |   [timeline](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  |
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  |
@@ -46,6 +46,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [PClub Summer Of Code](http://pclubsummerofcode.in/) | No | |
 | [RubyMe Mentorship Program](http://rubyme.org/) | Yes | |
 | [Vectorised IO*](https://vectorized.io/scholarship/) | Yes | |
+| [24 Pull Requests](https://24pullrequests.com/) | No | |
 
 * *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
 * ** OSoC is only open to Belgian students.
