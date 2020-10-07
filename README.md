@@ -10,17 +10,17 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [Season of KDE](https://season.kde.org) | No      | [timeline](https://dot.kde.org/2017/11/19/announcing-season-kde-2018) |
 | [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes | [timeline](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017#Timeplan) |
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) |
-| [RGSOC](http://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |
+| [RGSOC](https://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |
 | [Tweag I/O Summer Internship](https://www.tweag.io/posts/2019-03-11-internships.html)|Yes|[timeline](https://www.tweag.io/posts/2019-03-11-internships.html#time)|
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes | [timeline](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) |
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)      |
 | [SOCIS](https://socis.esa.int/) | Yes | [timeline](https://socis.esa.int/timeline/)   |
 | [ LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) |
-| [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
+| [The X.Org Endless Vacation of Code (EVoC)](https://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*| [timeline](https://www.dataone.org/internships)  |
 | [Julia Summer of Code](https://julialang.org/soc/ideas-page)|Yes|[timeline](https://julialang.org/soc/guidelines/)|
 | [OWASP Code Sprint](https://www.owasp.org/index.php/GSoC2019_Ideas)|Yes|[timeline](https://www.owasp.org/index.php/GSoC)|
-| [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  |
+| [Free Software Foundation Internship](https://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  |
 | [Radare Summer of Code](https://rada.re/gsoc/2020/) | Yes | [timeline](https://rada.re/gsoc/2020/) |
 | [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   |
 | [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/projects/internship-program) | Yes |  |
@@ -43,8 +43,8 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [ICFOSS Fellowship Programme](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  | Yes  |   [timeline](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  |
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  |
 | [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/)  | Yes |  |
-| [PClub Summer Of Code](http://pclubsummerofcode.in/) | No | |
-| [RubyMe Mentorship Program](http://rubyme.org/) | Yes | |
+| [PClub Summer Of Code](https://pclubsummerofcode.in/) | No | |
+| [RubyMe Mentorship Program](https://rubyme.org/) | Yes | |
 | [Vectorised IO*](https://vectorized.io/scholarship/) | Yes | |
 | [24 Pull Requests](https://24pullrequests.com/) | No | |
 
@@ -65,7 +65,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [Halite AI Bot Challenge](https://halite.io/)                                        | Swag rewards for winners                                      | N/A                                                                 |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                    | Prizes For Winners                                            | [timeline](https://www.oss.kr/en_oss_world_challenage#period)       |
 | [ACM MM Open Source Software Competition](https://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 |
-| [Girlscript Summer of Code](http://gssoc.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://www.gssoc.tech/index.html#sch-heading)           |
+| [Girlscript Summer of Code](https://gssoc.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://www.gssoc.tech/index.html#sch-heading)           |
 | [HackinCodes Contributor's Hack](https://hakincodes.tech/)                           | Prizes and swag rewards                                       | [timeline](https://hakincodes.tech/CH20.html)           |
 
 * *Indian Students Only
