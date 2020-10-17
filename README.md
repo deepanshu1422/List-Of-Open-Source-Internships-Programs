@@ -17,7 +17,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [ LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) |
 | [The X.Org Endless Vacation of Code (EVoC)](https://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*| [timeline](https://www.dataone.org/internships)  |
-| [Julia Summer of Code](https://julialang.org/soc/ideas-page)|Yes|[timeline](https://julialang.org/soc/guidelines/)|
+| [Julia Summer of Code](https://julialang.org/soc/ideas-page)|Yes|[timeline](https://julialang.org/jsoc/guidelines/)|
 | [OWASP Code Sprint](https://www.owasp.org/index.php/GSoC2019_Ideas)|Yes|[timeline](https://www.owasp.org/index.php/GSoC)|
 | [Free Software Foundation Internship](https://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  |
 | [Radare Summer of Code](https://rada.re/gsoc/2020/) | Yes | [timeline](https://rada.re/gsoc/2020/) |
