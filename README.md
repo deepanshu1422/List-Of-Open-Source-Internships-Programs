@@ -1,6 +1,6 @@
-This repo is being continuously updated by me as a help to @tapeswinpatak as she is unable to merge more pull requests and has decided to take a break from https://github.com/tapaswenipathak/Open-Source-Programs
+This repo is being continuously updated by me to help @tapeswinpatak as she is unable to merge more pull requests and has decided to take a break from https://github.com/tapaswenipathak/Open-Source-Programs
 
-All PR's are now being entertained ,Please star this repo in order to get further updates
+All PR's are now being entertained ,Please Star this repo in order to get further updates.
 
 
 | Name                                    | Stipend | Timeline            |
@@ -70,7 +70,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 * *Indian Students Only
 * ** OSS World Challenge has temporarily stopped accepting international applications.
 
-# University SoC/WoC
+# University SoC / WoC
 
 | Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
