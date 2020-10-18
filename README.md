@@ -63,7 +63,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [24 Pull Requests](https://24pullrequests.com/)                                      | No Prizes Offered       				       | [timeline](https://24pullrequests.com/about) 		             |
 | [Halite AI Bot Challenge](https://halite.io/)                                        | Swag rewards for winners                                      | N/A                                                                 |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                    | Prizes For Winners                                            | [timeline](https://www.oss.kr/en_oss_world_challenage#period)       |
-| [ACM MM Open Source Software Competition](https://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 |
+| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 |
 | [Girlscript Summer of Code](https://gssoc.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://www.gssoc.tech/index.html#sch-heading)           |
 | [HackinCodes Contributor's Hack](https://hakincodes.tech/)                           | Prizes and swag rewards                                       | [timeline](https://hakincodes.tech/CH20.html)           |
 
