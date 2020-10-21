@@ -45,7 +45,6 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [PClub Summer Of Code](https://www.pclubsummerofcode.in/) | No | [timeline](https://www.pclubsummerofcode.in/static/mentors/img/PSoC_Mentee_Manual.pdf)|
 | [RubyMe Mentorship Program](https://rubyme.org/) | Yes | |
 | [Vectorised IO*](https://vectorized.io/scholarship/) | Yes | |
-| [24 Pull Requests](https://24pullrequests.com/) | No | [timeline](https://24pullrequests.com/about)|
 
 * *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
 * ** OSoC is only open to Belgian students.
