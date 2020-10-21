@@ -40,7 +40,6 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline) |
 | [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) |
 | [ICFOSS Fellowship Programme](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  | Yes  |   [timeline](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  |
-| [Winter Of Security 2016](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016#Selection_process) | Yes | [timeline](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016#Selection_process) |
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  |
 | [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/)  | Yes |  |
 | [PClub Summer Of Code](https://www.pclubsummerofcode.in/) | No | [timeline](https://www.pclubsummerofcode.in/static/mentors/img/PSoC_Mentee_Manual.pdf)|
@@ -67,6 +66,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 |
 | [Girlscript Summer of Code](https://gssoc.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://www.gssoc.tech/index.html#sch-heading)           |
 | [HackinCodes Contributor's Hack](https://hakincodes.tech/)                           | Prizes and swag rewards                                       | [timeline](https://hakincodes.tech/CH20.html)           |
+| [Google Code In ](https://codein.withgoogle.com/archive/)                    | Prizes For Winners                                            | [timeline](https://developers.google.com/open-source/gci/timeline)       |
 
 * *Indian Students Only
 * ** OSS World Challenge has temporarily stopped accepting international applications.
