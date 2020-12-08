@@ -1,6 +1,6 @@
-This repo is being continuously updated by me as a help to @tapeswinpatak as she is unable to merge more pull requests and has decided to take a break from https://github.com/tapaswenipathak/Open-Source-Programs
+This repo is being continuously updated by me as a help to [@tapeswinpatak](https://github.com/tapaswenipathak) as she is unable to merge more pull requests and has decided to take a break from https://github.com/tapaswenipathak/Open-Source-Programs.
 
-All PR's are now being entertained ,Please star this repo in order to get further updates
+All PR's are now being entertained, Please star this repo in order to get further updates
 
 
 | Name                                    | Stipend | Timeline            |
