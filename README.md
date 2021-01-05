@@ -82,4 +82,6 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
 | [Semester Long Projects](https://slop.dscdaiict.in/) (SLoP by DA-IICT) | Prizes, swag rewards and internship opportunities for winners|  |
 | [Sanscript Autumn of Open Source](https://aos.sanscript.tech/) | Winner Certificate + Badge + surprise gifts|  |
-| [Delta Winter of Code (DWoC)](https://dwoc.io/) | Certificates to all and Swag rewards| [timeline](https://dwoc.io/)|
+| [Delta Winter of Code](https://dwoc.io/) (DWoC) | Certificates to all and Swag rewards| [timeline](https://dwoc.io/)|
+| [DevScript Winter of Code](https://devscript.tech/woc/) (DWoC) | Certificates, SWAGs, Subscriptions, Internship Opportunity| [timeline](https://devscript.tech/woc/)|
+
