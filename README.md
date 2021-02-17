@@ -74,6 +74,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 
 | Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
+| [JGEC Winter of Code](https://jwoc2k20.tech/) | Certificates & swag rewards  | [timeline](https://jwoc2k20.tech/#timeline)
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html) | Swag rewards|  |
 | [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards| [timeline](https://njackwinterofcode.github.io/)|
 | [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org/) | Swag rewards|  [timeline](https://kwoc.kossiitkgp.org/#tline)|
