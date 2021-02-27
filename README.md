@@ -26,7 +26,8 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) |
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     |
-| [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.milleniumfellows.org/the-program)| 
+| [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.millenniumfellows.org/the-program)| 
+| [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |[timeline](https://wiki.gnome.org/Internships#Timeline)  |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |[timeline](https://www.igalia.com/about-us/coding-experience) |
 | [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline) |
@@ -65,6 +66,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 
 | Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
+| [JGEC Winter of Code](https://jwoc2k20.tech/) | Certificates & swag rewards  | [timeline](https://jwoc2k20.tech/#timeline)
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html) | Swag rewards|  |
 | [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards| [timeline](https://njackwinterofcode.github.io/)|
 | [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org/) | Swag rewards|  [timeline](https://kwoc.kossiitkgp.org/#tline)|
