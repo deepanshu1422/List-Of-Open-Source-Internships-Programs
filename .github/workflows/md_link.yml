@@ -1,0 +1,43 @@
+#########################
+#########################
+### Link Check Action ###
+#########################
+#########################
+name: Check Markdown links
+
+###########################
+# Start the job on all PR #
+###########################
+on:
+  pull_request:
+    branches: [ master ]
+
+###############
+# Set the Job #
+###############
+jobs:
+  # Name the Job
+  markdown-link-check:
+    # Set the agent to run on
+    runs-on: ubuntu-latest
+
+    ##################
+    # Load all steps #
+    ##################
+    steps:
+
+      ##########################
+      # Checkout the code base #
+      ##########################
+    - uses: actions/checkout@master
+
+      ###################################
+      # Run Linkcheck against code base #
+      ###################################
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'no'
+        use-verbose-mode: 'yes'
+        config-file: '.github/linters/mlc_config.json'
+        max-depth: -1
+        check-modified-files-only: 'yes'
