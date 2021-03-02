@@ -13,8 +13,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)      |
 | [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) |
 | [The X.Org Endless Vacation of Code (EVoC)](https://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
-| [Julia Summer of Code](https://julialang.org/soc/ideas-page)|Yes|[timeline](https://julialang.org/jsoc/guidelines/)|
-| [OWASP Code Sprint](https://www.owasp.org/index.php/GSoC2019_Ideas)|Yes|[timeline](https://www.owasp.org/index.php/GSoC)|
+| [Julia Summer of Code](https://julialang.org/jsoc)|Yes|[timeline](https://julialang.org/jsoc/guidelines/)|
 | [Free Software Foundation Internship](https://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  |
 | [Radare Summer of Code](https://rada.re/gsoc/2020/) | Yes | [timeline](https://rada.re/gsoc/2020/) |
 | [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   |
@@ -26,7 +25,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) |
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     |
-| [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.millenniumfellows.org/the-program)| 
+| [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.millenniumfellows.org/fellowship)| 
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |[timeline](https://wiki.gnome.org/Internships#Timeline)  |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |[timeline](https://www.igalia.com/about-us/coding-experience) |
@@ -49,14 +48,13 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss)              | Prizes For Winners*     				       | [timeline](https://lab.codingblocks.com/boss#rules-and-eligibility) |
 | [FOSSASIA Codeheat](https://codeheat.org/)                                           | Cash Prizes For Winners 				       | [timeline](https://codeheat.org/#timeline)                          |
 | [Data Driven Competitions](https://www.drivendata.org/competitions)                  | Cash Prizes For Winners 				       | [timeline](https://www.drivendata.org/competitions/)                |
-| [Quantopian Open](https://www.quantopian.com/open)				       | Cash Prizes For Winners  				       | N/A                                                                 |
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/)                             | Swag Rewards            				       | [timeline](https://hacktoberfest.digitalocean.com/details)	     |
 | [24 Pull Requests](https://24pullrequests.com/)                                      | No Prizes Offered       				       | [timeline](https://24pullrequests.com/about) 		             |
 | [Halite AI Bot Challenge](https://halite.io/)                                        | Swag rewards for winners                                      | N/A                                                                 |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                    | Prizes For Winners                                            | [timeline](https://www.oss.kr/en_oss_world_challenage#period)       |
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 |
 | [Girlscript Summer of Code](https://gssoc.girlscript.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://gssoc.girlscript.tech/schedule.html)           |
-| [HackinCodes Contributor's Hack](https://hakincodes.tech/)                           | Prizes and swag rewards                                       | [timeline](https://hakincodes.tech/CH20.html)           |
+| [HackinCodes Contributor's Hack](https://hakincodes.tech/)                           | Prizes and swag rewards                                       | [timeline](https://hakincodes.tech/ch20.html)           |
 | [Script Winter of Code](https://swoc.tech/) SWOC                                      | Swag Rewards | [Timeline](https://swoc.tech/) |
 
 * *Indian Students Only
