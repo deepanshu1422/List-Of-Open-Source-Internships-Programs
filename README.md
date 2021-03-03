@@ -11,19 +11,19 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) | February 22 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   - |
 | [RGSOC](https://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |  March | September |
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)      | March | April |
-| [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) |
+| [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) | January | June |
 | [The X.Org Endless Vacation of Code (EVoC)](https://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
 | [Julia Summer of Code](https://julialang.org/soc/ideas-page)|Yes|[timeline](https://julialang.org/jsoc/guidelines/)|
 | [OWASP Code Sprint](https://www.owasp.org/index.php/GSoC2019_Ideas)|Yes|[timeline](https://www.owasp.org/index.php/GSoC)|
 | [Free Software Foundation Internship](https://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  |
-| [Radare Summer of Code](https://rada.re/gsoc/2020/) | Yes | [timeline](https://rada.re/gsoc/2020/) |
+| [Radare Summer of Code](https://rada.re/gsoc/2020/) | Yes | [timeline](https://rada.re/gsoc/2020/) | March | September | 
 | [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   |
 | [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/projects/internship-program) | Yes |  |
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |  |
 | [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes | [timeline](https://rare-technologies.com/incubator/#details)    |
 | [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://summerofcode.be/practical)|
-| [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     |
-| [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) |
+| [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     | Whole year |
+| [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Whole Year |
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     |
 | [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.millenniumfellows.org/the-program)| 
@@ -32,7 +32,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |[timeline](https://www.igalia.com/about-us/coding-experience) |
 | [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline) |
 | [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) |
-| [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  |
+| [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | Spring/Summer/Fall |
 | [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/)  | Yes |  |
 | [PClub Summer Of Code](https://www.pclubsummerofcode.in/) | No | [timeline](https://www.pclubsummerofcode.in/static/mentors/img/PSoC_Mentee_Manual.pdf)|
 | [RubyMe Mentorship Program](https://rubyme.org/) | Yes | |
