@@ -56,7 +56,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 |
 | [Girlscript Summer of Code](https://gssoc.girlscript.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://gssoc.girlscript.tech/schedule.html)           |
 | [HackinCodes Contributor's Hack](https://hakincodes.tech/)                           | Prizes and swag rewards                                       | [timeline](https://hakincodes.tech/ch20.html)           |
-| [Script Winter of Code](https://swoc.tech/) SWOC                                      | Swag Rewards | [Timeline](https://swoc.tech/) |
+| [Script Winter of Code](https://swoc.scriptindia.org/) SWOC                                      | Swag Rewards | [Timeline](https://swoc.scriptindia.org/) |
 
 * *Indian Students Only
 * ** OSS World Challenge has temporarily stopped accepting international applications.
