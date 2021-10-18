@@ -37,7 +37,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [RubyMe Mentorship Program](https://rubyme.org/) | Yes | |
 | [Vectorised IO*](https://vectorized.io/scholarship/) | Yes | |
 | [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn)  | Yes  |   [timeline](https://summer.iscas.ac.cn/help/en/timeline/)  | |
-
+| [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code) | Yes | [timeline](https://opensource.tencent.com/summer-of-code#flow) | |
 * *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
 * ** OSoC is only open to Belgian students.
 
