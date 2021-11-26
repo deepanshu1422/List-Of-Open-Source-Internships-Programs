@@ -66,6 +66,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Girlscript Summer of Code](https://gssoc.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://www.gssoc.tech/index.html#sch-heading)           |
 | [HackinCodes Contributor's Hack](https://hakincodes.tech/)                           | Prizes and swag rewards                                       | [timeline](https://hakincodes.tech/CH20.html)           |
 | [Script Winter of Code](https://swoc.tech/) SWOC                                      | Swag Rewards | [Timeline](https://swoc.tech/) |
+| [Girlscript Winter of Contributing](https://gwoc.girlscript.tech/)                    | The digital certificate, Cash prizes & swag rewards          | [timeline](https://gwoc.girlscript.tech/index.html#timeline-heading)           |
 
 * *Indian Students Only
 * ** OSS World Challenge has temporarily stopped accepting international applications.
