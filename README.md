@@ -56,6 +56,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                    | Prizes For Winners                                            | [timeline](https://www.oss.kr/en_oss_world_challenage#period)       |
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 |
 | [Girlscript Summer of Code](https://gssoc.girlscript.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://gssoc.girlscript.tech/schedule.html)           |
+| [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/)                                      | Prizes, swag rewards, Certificate | [timeline](https://gwoc.girlscript.tech/index.html)           |
 | [HackinCodes Contributor's Hack](https://hakincodes.tech/)                           | Prizes and swag rewards                                       | [timeline](https://hakincodes.tech/ch20.html)           |
 | [Script Winter of Code](https://swoc.scriptindia.org/) SWOC                                      | Swag Rewards | [Timeline](https://swoc.scriptindia.org/) |
 
@@ -77,4 +78,6 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Sanscript Autumn of Open Source](https://aos.sanscript.tech/) | Winner Certificate + Badge + surprise gifts|  |
 | [Delta Winter of Code](https://dwoc.io/) (DWoC) | Certificates to all and Swag rewards| [timeline](https://dwoc.io/)|
 | [DevScript Winter of Code](https://devscript.tech/woc/) (DWoC) | Certificates, SWAGs, Subscriptions, Internship Opportunity| [timeline](https://devscript.tech/woc/)|
+| [Hack-Club-SRM](https://github.com/Hack-Club-SRM/HCSSoC) (HCSSoC) | Certificates, SWAGs | [timeline](https://github.com/Hack-Club-SRM/HCSSoC#timeline)|
+| [Cross Winter of code](https://crosswoc.ieeedtu.in/) (CrossWoC) | Certificates, SWAGs | [timeline](https://crosswoc.ieeedtu.in/#schedule)|
 
