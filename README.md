@@ -3,9 +3,13 @@ This repo is being continuously updated by me as a help to [@tapeswinpatak](http
 All PR's are now being entertained, Please star this repo in order to get further updates
 
 
-| Name                                    | Stipend | Timeline            | Start Date                         | End Date                     |
+2022-04-22
+2022-08-19
+2022-12-09
+
+| Name                                    | Stipend | Timeline            | Start Date(s)                         | End Date(s)                     |
 |-----------------------------------------|-------------|-----------------|------------------------------------------------|----------------------------------------------------|
-| [MLH Open Source Fellowship](https://fellowship.mlh.io/) | Yes | [timeline](https://fellowship.mlh.io/programs/open-source) |February and May |April and August | 
+| [MLH Open Source Fellowship](https://fellowship.mlh.io/) | Yes | [timeline](https://fellowship.mlh.io/programs/open-source) |January 31 2022 <br/> May 30 2022 <br/> Sep 19 2022 | April 22 2022 <br/> August 19 2022 <br/> December 9, 2022 | 
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) | May 17, 2021| December 14, 2021|
 | [Season of KDE](https://season.kde.org) | No      | [timeline](https://season.kde.org/) | December | April |
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) | February 22 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   - |
