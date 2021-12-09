@@ -3,9 +3,6 @@ This repo is being continuously updated by me as a help to [@tapeswinpatak](http
 All PR's are now being entertained, Please star this repo in order to get further updates
 
 
-2022-04-22
-2022-08-19
-2022-12-09
 
 | Name                                    | Stipend | Timeline            | Start Date(s)                         | End Date(s)                     |
 |-----------------------------------------|-------------|-----------------|------------------------------------------------|----------------------------------------------------|
