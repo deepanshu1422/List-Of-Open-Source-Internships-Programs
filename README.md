@@ -37,7 +37,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [PClub Summer Of Code](https://www.pclubsummerofcode.in/) | No | [timeline](https://www.pclubsummerofcode.in/static/mentors/img/PSoC_Mentee_Manual.pdf)|
 | [RubyMe Mentorship Program](https://rubyme.org/) | Yes | |
 | [Vectorised IO*](https://vectorized.io/scholarship/) | Yes | |
-| [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn)  | Yes  |   [timeline](https://summer.iscas.ac.cn/help/en/timeline/)  | |
+| [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn)  | Yes  |   [timeline](https://summer.iscas.ac.cn/help/en/timeline/)  | May 24 | October 22 |
 | [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code) | Yes | [timeline](https://opensource.tencent.com/summer-of-code#flow) | |
 | [Microsoft Learn Student Ambassador Program](https://studentambassadors.microsoft.com/)  | NO | |
 * *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
