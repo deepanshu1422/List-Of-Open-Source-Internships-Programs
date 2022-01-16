@@ -13,11 +13,11 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [RGSOC](https://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |  March | September |
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)      | March | April |
 | [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) | January | June |
-| [The X.Org Endless Vacation of Code (EVoC)](https://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
+| [The X.Org Endless Vacation of Code (EVoC)](https://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     | April |
 | [Julia Summer of Code](https://julialang.org/jsoc)|Yes|[timeline](https://julialang.org/jsoc/guidelines/)|
 | [Free Software Foundation Internship](https://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  | February | May |
 | [Radare Summer of Code](https://rada.re/gsoc/2020/) | Yes | [timeline](https://rada.re/gsoc/2020/) | March | September | 
-| [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   |
+| [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   | April 4 | September 12
 | [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/projects/internship-program) | Yes |  |
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |  |
 | [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes | [timeline](https://rare-technologies.com/incubator/#details)    |
@@ -30,7 +30,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |[timeline](https://wiki.gnome.org/Internships#Timeline)  |
 | [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/)| Yes |[timeline](https://www.igalia.com/coding-experience/) |
-| [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline) |
+| [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline) | March 15 | April 15 | 
 | [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) |
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | Spring/Summer/Fall |
 | [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/)  | Yes |  |
