@@ -27,7 +27,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Whole Year |
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     |
-| [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.millenniumfellows.org/fellowship)| 
+| [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline]| June | | December |(https://www.millenniumfellows.org/fellowship)| 
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |[timeline](https://wiki.gnome.org/Internships#Timeline)  |
 | [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/)| Yes |[timeline](https://www.igalia.com/coding-experience/) |
