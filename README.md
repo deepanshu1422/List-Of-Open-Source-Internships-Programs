@@ -4,8 +4,8 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 
 
 
-| Name                                    | Stipend | Timeline            | Start Date(s)                         | End Date(s)                     |
-|-----------------------------------------|-------------|-----------------|------------------------------------------------|----------------------------------------------------|
+| Name                                    | Stipend | Timeline            | Start Date(s)                         | End Date(s)                     | Restrictions
+|-----------------------------------------|-------------|-----------------|------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
 | [MLH Open Source Fellowship](https://fellowship.mlh.io/) | Yes | [timeline](https://fellowship.mlh.io/programs/open-source) |Jan 31 2022 <br/> May 30 2022 <br/> Sep 19 2022 | Apr 22 2022 <br/> Aug 19 2022 <br/> Dec 9 2022 | 
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) | May 17, 2021| December 14, 2021|
 | [Season of Bitcoin](https://www.summerofbitcoin.org/) | Yes | [timeline](https://www.summerofbitcoin.org/how-it-works) | Jan 1, 2022| Aug 26, 2022|
