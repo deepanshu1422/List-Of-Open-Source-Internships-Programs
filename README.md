@@ -6,50 +6,50 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 
 | Name                                    | Stipend | Timeline            | Start Date(s)                         | End Date(s)                     | Restrictions
 |-----------------------------------------|-------------|-----------------|------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-| [MLH Open Source Fellowship](https://fellowship.mlh.io/) | Yes | [timeline](https://fellowship.mlh.io/programs/open-source) |Jan 31 2022 <br/> May 30 2022 <br/> Sep 19 2022 | Apr 22 2022 <br/> Aug 19 2022 <br/> Dec 9 2022 | 
-| [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) | May 17, 2021| December 14, 2021|
+| [MLH Open Source Fellowship](https://fellowship.mlh.io/) | Yes | [timeline](https://fellowship.mlh.io/programs/open-source) |Jan 31 2022 <br/> May 30 2022 <br/> Sep 19 2022 | Apr 22 2022 <br/> Aug 19 2022 <br/> Dec 9 2022 | No resttriction
+| [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) | May 17, 2021| December 14, 2021|N/A
 | [Season of Bitcoin](https://www.summerofbitcoin.org/) | Yes | [timeline](https://www.summerofbitcoin.org/how-it-works) | Jan 1, 2022| Aug 26, 2022|
-| [Season of KDE](https://season.kde.org) | No      | [timeline](https://season.kde.org/) | December | April |
+| [Season of KDE](https://season.kde.org) | No      | [timeline](https://season.kde.org/) | December | April |N/A
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) | August <br> February 22 |Early March <br> Late August   - |
-| [RGSOC](https://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |  March | September |
-| [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)      | March | April |
-| [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) | January | June |
-| [The X.Org Endless Vacation of Code (EVoC)](https://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     | April |
+| [RGSOC](https://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |  March | September |N/A
+| [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)      | March | April |N/A
+| [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) | January | June |N/A
+| [The X.Org Endless Vacation of Code (EVoC)](https://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     | April |N/A
 | [Julia Summer of Code](https://julialang.org/jsoc)|Yes|[timeline](https://julialang.org/jsoc/guidelines/)|
-| [Free Software Foundation Internship](https://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  | February | May |
-| [Radare Summer of Code](https://rada.re/gsoc/2020/) | Yes | [timeline](https://rada.re/gsoc/2020/) | March | September | 
-| [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   | April 4 | September 12
+| [Free Software Foundation Internship](https://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  | February | May |N/A
+| [Radare Summer of Code](https://rada.re/gsoc/2020/) | Yes | [timeline](https://rada.re/gsoc/2020/) | March | September | N/A
+| [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   | April 4 | September 12|N/A
 | [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/projects/internship-program) | Yes |  |
-| [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |  |
-| [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes | [timeline](https://rare-technologies.com/incubator/#details)    |
-| [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://summerofcode.be/practical)| 5 July | 29 July
-| [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     | Whole year |
-| [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Whole Year |
-| [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
-| [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     |
-| [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline]| June | | December |(https://www.millenniumfellows.org/fellowship)| 
+| [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |  | | | N/A
+| [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes | [timeline](https://rare-technologies.com/incubator/#details)    | | |N/A
+| [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://summerofcode.be/practical)| 5 July | 29 July|N/A
+| [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     | Whole year | |N/A
+| [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Whole Year | | N/A
+| [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  | | | N/A
+| [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     | | | N/A
+| [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.millenniumfellows.org/fellowship)| June | December |N/A
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |[timeline](https://wiki.gnome.org/Internships#Timeline)  |
-| [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/)| Yes |[timeline](https://www.igalia.com/coding-experience/) |
-| [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline) | March 15 | April 15 | 
-| [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) |
-| [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | Spring/Summer/Fall |
-| [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/)  | Yes |  |
-| [PClub Summer Of Code](https://www.pclubsummerofcode.in/) | No | [timeline](https://www.pclubsummerofcode.in/static/mentors/img/PSoC_Mentee_Manual.pdf)|
-| [RubyMe Mentorship Program](https://rubyme.org/) | Yes | |
-| [Vectorised IO*](https://vectorized.io/scholarship/) | Yes | |
-| [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn)  | Yes  |   [timeline](https://summer.iscas.ac.cn/help/en/timeline/)  | May 24 | October 22 |
-| [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code) | Yes | [timeline](https://opensource.tencent.com/summer-of-code#flow) | |
-| [Microsoft Learn Student Ambassador Program](https://studentambassadors.microsoft.com/)  | NO | |
+| [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/)| Yes |[timeline](https://www.igalia.com/coding-experience/) | | |N/A
+| [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline) | March 15 | April 15 |N/A
+| [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) | | |N/A
+| [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | Spring/Summer/Fall | |N/A
+| [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/)  | Yes |  | | |N/A
+| [PClub Summer Of Code](https://www.pclubsummerofcode.in/) | No | [timeline](https://www.pclubsummerofcode.in/static/mentors/img/PSoC_Mentee_Manual.pdf)| | |N/A
+| [RubyMe Mentorship Program](https://rubyme.org/) | Yes | |   | |N/A
+| [Vectorised IO](https://vectorized.io/scholarship/) | Yes | | | |N/A
+| [Summer of Open Souce Promotion Plan](https://summer.iscas.ac.cn)  | Yes  |   [timeline](https://summer.iscas.ac.cn/help/en/timeline/)  | May 24 | October 22 |N/A
+| [Tencent Rhino-bird Open-source Training Program](https://opensource.tencent.com/summer-of-code) | Yes | [timeline](https://opensource.tencent.com/summer-of-code#flow) | | |N/A
+| [Microsoft Learn Student Ambassador Program](https://studentambassadors.microsoft.com/)  | NO | | | |N/A
 * *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
 * ** OSoC is only open to Belgian students.
 
 # Open Source Competitions
 
 
-| Name                                                                                 | Awards                  				       | Timeline                                                            |
-|--------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------|
-| [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss)              | Prizes For Winners*     				       | [timeline](https://lab.codingblocks.com/boss#rules-and-eligibility) |
+| Name                                                                                 | Awards                  				       | Timeline                                                            | Number per team
+|--------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss)              | Prizes For Winners    				       | [timeline](https://lab.codingblocks.com/boss#rules-and-eligibility) |
 | [FOSSASIA Codeheat](https://codeheat.org/)                                           | Cash Prizes For Winners 				       | [timeline](https://codeheat.org/#timeline)                          |
 | [Data Driven Competitions](https://www.drivendata.org/competitions)                  | Cash Prizes For Winners 				       | [timeline](https://www.drivendata.org/competitions/)                |
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/)                             | Swag Rewards            				       | [timeline](https://hacktoberfest.digitalocean.com/details)	     |
