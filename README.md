@@ -73,7 +73,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards| [timeline](https://njackwinterofcode.github.io/)|
 | [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org/) | Swag rewards|  [timeline](https://kwoc.kossiitkgp.org/#tline)|
 | [OpenCode IIITA](https://opencodeiiita.github.io/) | Swag rewards|  |
-| [FOSSEE Summer Fellowship](https://fossee.in/) | No |   |
+| [FOSSEE Summer Fellowship](https://fossee.in/) | Certificate |   |
 | [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
 | [Semester Long Projects](https://slop.dscdaiict.in/) (SLoP by DA-IICT) | Prizes, swag rewards and internship opportunities for winners|  |
 | [Sanscript Autumn of Open Source](https://aos.sanscript.tech/) | Winner Certificate + Badge + surprise gifts|  |
