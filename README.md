@@ -52,7 +52,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss)              | Prizes For Winners    				       | [timeline](https://lab.codingblocks.com/boss#rules-and-eligibility) |
 | [FOSSASIA Codeheat](https://codeheat.org/)                                           | Cash Prizes For Winners 				       | [timeline](https://codeheat.org/#timeline)                          |
 | [Data Driven Competitions](https://www.drivendata.org/competitions)                  | Cash Prizes For Winners 				       | [timeline](https://www.drivendata.org/competitions/)                |
-| [Hacktoberfest](https://hacktoberfest.digitalocean.com/)                             | Swag Rewards            				       | [timeline](https://hacktoberfest.digitalocean.com/details)	     |
+| [Hacktoberfest](https://hacktoberfest.digitalocean.com/)                             | Swag Rewards            				       | [timeline](https://hacktoberfest.com/participation/#contributors)	     |
 | [24 Pull Requests](https://24pullrequests.com/)                                      | No Prizes Offered       				       | [timeline](https://24pullrequests.com/about) 		             |
 | [Halite AI Bot Challenge](https://halite.io/)                                        | Swag rewards for winners                                      | N/A                                                                 |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                    | Prizes For Winners                                            | [timeline](https://www.oss.kr/en_oss_world_challenage#period)       |
