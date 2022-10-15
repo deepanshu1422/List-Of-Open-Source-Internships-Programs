@@ -35,6 +35,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) | | |N/A
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  | Spring/Summer/Fall | |N/A
 | [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/)  | Yes |  | | |N/A
+| [Programa de Estágio BEES](https://programasambev.gupy.io/jobs/2987579)  | Yes |  | | |N/A
 | [PClub Summer Of Code](https://www.pclubsummerofcode.in/) | No | [timeline](https://www.pclubsummerofcode.in/static/mentors/img/PSoC_Mentee_Manual.pdf)| | |N/A
 | [RubyMe Mentorship Program](https://rubyme.org/) | Yes | |   | |N/A
 | [Vectorised IO](https://vectorized.io/scholarship/) | Yes | | | |N/A
