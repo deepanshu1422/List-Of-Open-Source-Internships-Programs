@@ -60,6 +60,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Girlscript Summer of Code](https://gssoc.girlscript.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://gssoc.girlscript.tech/schedule.html)           |
 | [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/)                                      | Prizes, swag rewards, Certificate | [timeline](https://gwoc.girlscript.tech/index.html)           |
 | [Script Winter of Code](https://swoc.scriptindia.org/) SWOC                                      | Swag Rewards | [Timeline](https://swoc.scriptindia.org/) |
+| [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/)                                      | Prizes | [timeline](https://research.redhat.com/red-hat-open-source-contest/)
 
 * *Indian Students Only
 * ** OSS World Challenge has temporarily stopped accepting international applications.
