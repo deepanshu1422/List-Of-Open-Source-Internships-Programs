@@ -50,16 +50,16 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 
 | Name                                                                                 | Awards                  				       | Timeline                                                            | Number per team
 |--------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| [24 Pull Requests](https://24pullrequests.com/)                                      | No Prizes Offered       				       | [timeline](https://24pullrequests.com/about) 	
+| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A 
 | [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss)              | Prizes For Winners    				       | [timeline](https://lab.codingblocks.com/boss#rules-and-eligibility) |
-| [FOSSASIA Codeheat](https://codeheat.org/)                                           | Cash Prizes For Winners 				       | [timeline](https://codeheat.org/#timeline)                          |
 | [Data Driven Competitions](https://www.drivendata.org/competitions)                  | Cash Prizes For Winners 				       | [timeline](https://www.drivendata.org/competitions/)                |
-| [Hacktoberfest](https://hacktoberfest.digitalocean.com/)                             | Swag Rewards            				       | [timeline](https://hacktoberfest.digitalocean.com/details)	     |
-| [24 Pull Requests](https://24pullrequests.com/)                                      | No Prizes Offered       				       | [timeline](https://24pullrequests.com/about) 		             |
-| [Halite AI Bot Challenge](https://halite.io/)                                        | Swag rewards for winners                                      | N/A                                                                 |
-| [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                    | Prizes For Winners                                            | [timeline](https://www.oss.kr/en_oss_world_challenage#period)       |
-| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 |
+| [FOSSASIA Codeheat](https://codeheat.org/)                                           | Cash Prizes For Winners 				       | [timeline](https://codeheat.org/#timeline)                          |
 | [Girlscript Summer of Code](https://gssoc.girlscript.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://gssoc.girlscript.tech/schedule.html)           |
 | [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/)                                      | Prizes, swag rewards, Certificate | [timeline](https://gwoc.girlscript.tech/index.html)           |
+| [Hacktoberfest](https://hacktoberfest.digitalocean.com/)                             | Swag Rewards            				       | [timeline](https://hacktoberfest.digitalocean.com/details)	     |
+| [Halite AI Bot Challenge](https://halite.io/)                                        | Swag rewards for winners                                      | N/A                                                                 |
+| [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                    | Prizes For Winners                                            | [timeline](https://www.oss.kr/en_oss_world_challenage#period)       |                                                                |
 | [Script Winter of Code](https://swoc.scriptindia.org/) SWOC                                      | Swag Rewards | [Timeline](https://swoc.scriptindia.org/) |
 
 * *Indian Students Only
