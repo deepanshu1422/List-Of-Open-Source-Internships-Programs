@@ -29,7 +29,6 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     | | | N/A
 | [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.millenniumfellows.org/fellowship)| June | December |N/A
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
-| [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |[timeline](https://wiki.gnome.org/Internships#Timeline)  |
 | [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/)| Yes |[timeline](https://www.igalia.com/coding-experience/) | | |N/A
 | [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline) | March 15 | April 15 |N/A
 | [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) | | |N/A
