@@ -10,7 +10,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) | May 17, 2021| December 14, 2021|N/A
 | [Season of Bitcoin](https://www.summerofbitcoin.org/) | Yes | [timeline](https://www.summerofbitcoin.org/how-it-works) | Jan 1, 2022| Aug 26, 2022|
 | [Season of KDE](https://season.kde.org) | No      | [timeline](https://season.kde.org/) | December | April |N/A
-| [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) | August <br> February 22 |Early March <br> Late August   - |
+| [Outreachy](https://www.gnome.org/outreachy/) | No | [timeline](https://www.gnome.org/outreachy/) | August <br> February 22 |Early March <br> Late August   - |
 | [RGSOC](https://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |  March | September |N/A
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)      | March | April |N/A
 | [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) | January | June |N/A
@@ -69,13 +69,13 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 
 | Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
-| [JGEC Winter of Code](https://jwoc2k20.tech/) | Certificates & swag rewards  | [timeline](https://jwoc2k20.tech/#timeline)
+| [JGEC Winter of Code](https://jwoc2k20.tech/) | Certificates & swag rewards & Cash  | [timeline](https://jwoc2k20.tech/#timeline)
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html) | Swag rewards|  |
 | [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards| [timeline](https://njackwinterofcode.github.io/)|
 | [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org/) | Swag rewards|  [timeline](https://kwoc.kossiitkgp.org/#tline)|
 | [OpenCode IIITA](https://opencodeiiita.github.io/) | Swag rewards|  |
-| [FOSSEE Summer Fellowship](https://fossee.in/) | No |   |
-| [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
+| [FOSSEE Summer Fellowship](https://fossee.in/) | Yes |   |
+| [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards & Goodies offered |  |
 | [Semester Long Projects](https://slop.dscdaiict.in/) (SLoP by DA-IICT) | Prizes, swag rewards and internship opportunities for winners|  |
 | [Sanscript Autumn of Open Source](https://aos.sanscript.tech/) | Winner Certificate + Badge + surprise gifts|  |
 | [Delta Winter of Code](https://dwoc.io/) (DWoC) | Certificates to all and Swag rewards| [timeline](https://dwoc.io/)|
