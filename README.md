@@ -25,6 +25,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://summerofcode.be/practical)| 5 July | 29 July|N/A
 | [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     | Whole year | |N/A
 | [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Whole Year | | N/A
+| [XR Open Source Fellowship Program](https://xrosfellowship.ficci.in/) | Yes |[timeline](https://xrosfellowship.ficci.in/#timeline) | 20th Feb 2023 | 15th March 2023 | [ELIGIBILITY](https://xrosfellowship.ficci.in/#faq)
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  | | | N/A
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     | | | N/A
 | [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.millenniumfellows.org/fellowship)| June | December |N/A
