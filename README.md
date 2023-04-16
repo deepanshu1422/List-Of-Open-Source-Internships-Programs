@@ -10,7 +10,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) | Feb 3, 2022| Nov 9, 2022|N/A
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Yes | [timeline](https://www.summerofbitcoin.org/how-it-works) | Jan 1, 2022| Aug 26, 2022|
 | [Season of KDE](https://season.kde.org) | No      | [timeline](https://season.kde.org/) | December | April |N/A
-| [Outreachy](https://www.gnome.org/outreachy/) | No | [timeline](https://www.gnome.org/outreachy/) | August <br> February 22 |Early March <br> Late August   - |
+| [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) | August <br> February 22 |Early March <br> Late August   - |
 | [RGSOC](https://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |  March | September |N/A
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)      | March | April |N/A
 | [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) | January | June |N/A
