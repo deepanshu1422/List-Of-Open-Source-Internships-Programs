@@ -1,6 +1,13 @@
-This repo is being continuously updated by me as a help to [@tapeswinpatak](https://github.com/tapaswenipathak) as she is unable to merge more pull requests and has decided to take a break from https://github.com/tapaswenipathak/Open-Source-Programs.
 
-All PR's are now being entertained, Please star this repo in order to get further updates
+Our goal is to connect individuals with like-minded people who are passionate about contributing to the open source movement. Whether you're a seasoned open source developer or just starting out, we have something for everyone.
+We understand that it can be challenging to find the right events, opportunities, and networking resources that align with your interests and goals. That's why we've created this repository to help make your search easier.
+
+In addition to our list of open source events and opportunities, we also provide a platform for networking and community building. **
+
+
+## We invite you to join our WhatsApp group by clicking on the link https://chat.whatsapp.com/D7AuyMsNvB8173a34R3c0D . This group is a great place to meet fellow open source enthusiasts, ask questions, and share your own experiences.
+
+
 
 
 
@@ -90,6 +97,10 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [IIIT-Kalyani Winter of code](https://gdsc-woc.tech/) (WoC 2.0) | Certificates, SWAGs | [timeline](https://gdsc-woc.tech/#timeline)|
 
 Refer the template.md for more details
+
+## We invite you to join our WhatsApp group by clicking on the link https://chat.whatsapp.com/D7AuyMsNvB8173a34R3c0D . This group is a great place to meet fellow open source enthusiasts, ask questions, and share your own experiences.
+
+
 
 # :handshake: Our Contributors
 <a href="hhttps://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs/graphs/contributors">
