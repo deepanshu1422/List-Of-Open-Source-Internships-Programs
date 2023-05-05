@@ -72,6 +72,7 @@ In addition to our list of open source events and opportunities, we also provide
 | [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/)                                      | Prizes, swag rewards, Certificate | [timeline](https://gwoc.girlscript.tech/index.html)           |
 | [Script Winter of Code](https://swoc.scriptindia.org/) SWOC     | Swag Rewards | [Timeline](https://swoc.scriptindia.org/) |
 | [Google Season of Docs](https://developers.google.com/season-of-docs) GSOD                                      | Swag Rewards | [Timeline](https://developers.google.com/season-of-docs/docs/timeline) | 
+| [Social Summer of Code](https://hack2skill.com/hack/ssoc) SSOC   | Swag rewards, NFTs   |  [timeline](https://hack2skill.com/hack/ssoc#schedule-link)   |
 
 * *Indian Students Only
 * ** OSS World Challenge has temporarily stopped accepting international applications.
