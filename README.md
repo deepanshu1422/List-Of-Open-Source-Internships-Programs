@@ -5,7 +5,7 @@ We understand that it can be challenging to find the right events, opportunities
 In addition to our list of open source events and opportunities, we also provide a platform for networking and community building. **
 
 
-**✨ Are you eager to level up your coding skills? 🚀 Join our 30 Days Coding Community now! For just $5/month, you'll get access to in-depth guides on cutting-edge topics like blockchain, full stack development, AI, and more 🧠. Learn from expert mentors with years of experience in the tech industry 🌟. Don't wait - visit nas.io/30dayscoding to become a coding superstar 🌠 and join a dedicated coding community that will help you thrive! 💪🤩**
+**✨ Are you eager to level up your coding skills? 🚀 Join our 30 Days Coding Community now! For just $5/month, you'll get access to in-depth guides on cutting-edge topics like blockchain, full stack development, AI, and more 🧠. Learn from expert mentors with years of experience in the tech industry 🌟. Don't wait - visit [nas.io/30dayscoding](nas.io/30dayscoding) to become a coding superstar 🌠 and join a dedicated coding community that will help you thrive! 💪🤩**
 
 
 
@@ -98,7 +98,7 @@ In addition to our list of open source events and opportunities, we also provide
 
 Refer the template.md for more details
 
-**✨ Are you eager to level up your coding skills? 🚀 Join our 30 Days Coding Community now! For just $5/month, you'll get access to in-depth guides on cutting-edge topics like blockchain, full stack development, AI, and more 🧠. Learn from expert mentors with years of experience in the tech industry 🌟. Don't wait - visit nas.io/30dayscoding to become a coding superstar 🌠 and join a dedicated coding community that will help you thrive! 💪🤩**
+**✨ Are you eager to level up your coding skills? 🚀 Join our 30 Days Coding Community now! For just $5/month, you'll get access to in-depth guides on cutting-edge topics like blockchain, full stack development, AI, and more 🧠. Learn from expert mentors with years of experience in the tech industry 🌟. Don't wait - visit [nas.io/30dayscoding](nas.io/30dayscoding) to become a coding superstar 🌠 and join a dedicated coding community that will help you thrive! 💪🤩**
 
 
 
