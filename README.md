@@ -2,9 +2,11 @@ Looking to make your mark in the world of coding? 💻 Look no further than our 
 
 But that's not all - our community is built on the principles of open source and mentorship from industry professionals. 💻👨‍🏫🌐 With bi-weekly live sessions, hands-on exercises, and 24/7 support, you'll have all the tools you need to take your skills to the next level. 🌟
 
+![30-days-coding](https://i.ibb.co/mzs4ZXT/Want-to-network-with-other-talented-coders-and-advance-your-career-Join-our-exclusive-30-day-coding.png)
 
 
-**Visit [nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
+
+## **Visit [nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
 
 
 
@@ -104,9 +106,9 @@ Looking to make your mark in the world of coding? 💻 Look no further than our 
 But that's not all - our community is built on the principles of open source and mentorship from industry professionals. 💻👨‍🏫🌐 With bi-weekly live sessions, hands-on exercises, and 24/7 support, you'll have all the tools you need to take your skills to the next level. 🌟
 
 
+![30-days-coding](https://i.ibb.co/mzs4ZXT/Want-to-network-with-other-talented-coders-and-advance-your-career-Join-our-exclusive-30-day-coding.png)
 
-
-**Visit[nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
+## Visit [nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪
 
 
 
