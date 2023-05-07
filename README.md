@@ -1,11 +1,8 @@
+Looking to make your mark in the world of coding? 💻 Look no further than our 30 Days Coding Community! For just $5/month, you'll gain access to in-depth guides on cutting-edge topics like open-source automation, full stack development, AI, and more. 🚀🧠
 
-Our goal is to connect individuals with like-minded people who are passionate about contributing to the open source movement. Whether you're a seasoned open source developer or just starting out, we have something for everyone.
-We understand that it can be challenging to find the right events, opportunities, and networking resources that align with your interests and goals. That's why we've created this repository to help make your search easier.
+But that's not all - our community is built on the principles of open source and mentorship from industry professionals. 💻👨‍🏫🌐 With bi-weekly live sessions, hands-on exercises, and 24/7 support, you'll have all the tools you need to take your skills to the next level. 🌟
 
-In addition to our list of open source events and opportunities, we also provide a platform for networking and community building. **
-
-
-**✨ Are you eager to level up your coding skills? 🚀 Join our 30 Days Coding Community now! For just $5/month, you'll get access to in-depth guides on cutting-edge topics like blockchain, full stack development, AI, and more 🧠. Learn from expert mentors with years of experience in the tech industry 🌟. Don't wait - visit [nas.io/30dayscoding](nas.io/30dayscoding) to become a coding superstar 🌠 and join a dedicated coding community that will help you thrive! 💪🤩**
+**Visit[nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
 
 
 
@@ -98,7 +95,12 @@ In addition to our list of open source events and opportunities, we also provide
 
 Refer the template.md for more details
 
-**✨ Are you eager to level up your coding skills? 🚀 Join our 30 Days Coding Community now! For just $5/month, you'll get access to in-depth guides on cutting-edge topics like blockchain, full stack development, AI, and more 🧠. Learn from expert mentors with years of experience in the tech industry 🌟. Don't wait - visit [nas.io/30dayscoding](nas.io/30dayscoding) to become a coding superstar 🌠 and join a dedicated coding community that will help you thrive! 💪🤩**
+Looking to make your mark in the world of coding? 💻 Look no further than our 30 Days Coding Community! For just $5/month, you'll gain access to in-depth guides on cutting-edge topics like open-source automation, full stack development, AI, and more. 🚀🧠
+
+But that's not all - our community is built on the principles of open source and mentorship from industry professionals. 💻👨‍🏫🌐 With bi-weekly live sessions, hands-on exercises, and 24/7 support, you'll have all the tools you need to take your skills to the next level. 🌟
+
+**Visit[nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
+
 
 
 
