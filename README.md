@@ -5,8 +5,7 @@ We understand that it can be challenging to find the right events, opportunities
 In addition to our list of open source events and opportunities, we also provide a platform for networking and community building. **
 
 
-## We invite you to join our WhatsApp group by clicking on the link https://chat.whatsapp.com/D7AuyMsNvB8173a34R3c0D . This group is a great place to meet fellow open source enthusiasts, ask questions, and share your own experiences.
-
+##✨ Are you eager to level up your coding skills? 🚀 Join our 30 Days Coding Community now! For just $5/month, you'll get access to in-depth guides on cutting-edge topics like blockchain, full stack development, AI, and more 🧠. Learn from expert mentors with years of experience in the tech industry 🌟. Don't wait - visit nas.io/30dayscoding to become a coding superstar 🌠 and join a dedicated coding community that will help you thrive! 💪🤩
 
 
 
@@ -99,7 +98,8 @@ In addition to our list of open source events and opportunities, we also provide
 
 Refer the template.md for more details
 
-## We invite you to join our WhatsApp group by clicking on the link https://chat.whatsapp.com/D7AuyMsNvB8173a34R3c0D . This group is a great place to meet fellow open source enthusiasts, ask questions, and share your own experiences.
+##✨ Are you eager to level up your coding skills? 🚀 Join our 30 Days Coding Community now! For just $5/month, you'll get access to in-depth guides on cutting-edge topics like blockchain, full stack development, AI, and more 🧠. Learn from expert mentors with years of experience in the tech industry 🌟. Don't wait - visit nas.io/30dayscoding to become a coding superstar 🌠 and join a dedicated coding community that will help you thrive! 💪🤩
+
 
 
 
