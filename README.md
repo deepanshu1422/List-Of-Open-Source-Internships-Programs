@@ -4,7 +4,7 @@ But that's not all - our community is built on the principles of open source and
 
 
 
-** Visit [nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
+**Visit [nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
 
 
 
