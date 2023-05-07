@@ -2,7 +2,11 @@ Looking to make your mark in the world of coding? 💻 Look no further than our 
 
 But that's not all - our community is built on the principles of open source and mentorship from industry professionals. 💻👨‍🏫🌐 With bi-weekly live sessions, hands-on exercises, and 24/7 support, you'll have all the tools you need to take your skills to the next level. 🌟
 
-**Visit[nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
+
+
+** Visit [nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
+
+
 
 
 
@@ -98,6 +102,9 @@ Refer the template.md for more details
 Looking to make your mark in the world of coding? 💻 Look no further than our 30 Days Coding Community! For just $5/month, you'll gain access to in-depth guides on cutting-edge topics like open-source automation, full stack development, AI, and more. 🚀🧠
 
 But that's not all - our community is built on the principles of open source and mentorship from industry professionals. 💻👨‍🏫🌐 With bi-weekly live sessions, hands-on exercises, and 24/7 support, you'll have all the tools you need to take your skills to the next level. 🌟
+
+
+
 
 **Visit[nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
 
