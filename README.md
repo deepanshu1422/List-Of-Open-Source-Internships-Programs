@@ -6,7 +6,7 @@ But that's not all - our community is built on the principles of open source and
 
 
 
-## **Visit [nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
+## **Visit [https://nas.io/30dayscoding](https://nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪**
 
 
 
@@ -108,7 +108,7 @@ But that's not all - our community is built on the principles of open source and
 
 ![enter image description here](https://i.ibb.co/0JTBcth/Want-to-network-with-other-talented-coders-and-advance-your-career-Join-our-exclusive-30-day-coding.png)
 
-## Visit [nas.io/30dayscoding](nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪
+## Visit [https://nas.io/30dayscoding](https://nas.io/30dayscoding) now to join our thriving community of like-minded coders and make your mark in the world of coding! 💪
 
 
 
