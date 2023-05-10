@@ -4,6 +4,8 @@ We understand that it can be challenging to find the right events, opportunities
 
 In addition to our list of open source events and opportunities, we also provide a platform for networking and community building. **
 
+[![30dayscoding.com](https://i.ibb.co/jGBLFqM/Screenshot-2023-05-10-at-9-08-39-AM.png)](https://30dayscoding.com)
+
 
 ## We are absolutely thrilled to extend an exclusive invite to our vibrant WhatsApp group! Venture into the uncharted territories of open-source with like-minded enthusiasts. 💬
 
@@ -101,6 +103,9 @@ But hold on, there's a catch! To ensure we foster a committed community and cove
 | [IIIT-Kalyani Winter of code](https://gdsc-woc.tech/) (WoC 2.0) | Certificates, SWAGs | [timeline](https://gdsc-woc.tech/#timeline)|
 
 Refer the template.md for more details
+
+[![30dayscoding.com](https://i.ibb.co/jGBLFqM/Screenshot-2023-05-10-at-9-08-39-AM.png)](https://30dayscoding.com)
+
 
 ## We are absolutely thrilled to extend an exclusive invite to our vibrant WhatsApp group! Venture into the uncharted territories of open-source with like-minded enthusiasts. 💬
 
