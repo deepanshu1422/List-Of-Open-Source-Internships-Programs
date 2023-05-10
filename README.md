@@ -5,7 +5,11 @@ We understand that it can be challenging to find the right events, opportunities
 In addition to our list of open source events and opportunities, we also provide a platform for networking and community building. **
 
 
-## We invite you to join our WhatsApp group by clicking on the link https://chat.whatsapp.com/D7AuyMsNvB8173a34R3c0D . This group is a great place to meet fellow open source enthusiasts, ask questions, and share your own experiences.
+## We are absolutely thrilled to extend an exclusive invite to our vibrant WhatsApp group! Venture into the uncharted territories of open-source with like-minded enthusiasts. 💬
+
+## 🚀 Click here 👉 https://30dayscoding.com 🌐 to ignite your journey. This is the perfect playground to ask burning questions, share enlightening experiences, and create a network of inspiring individuals.
+
+But hold on, there's a catch! To ensure we foster a committed community and cover the costs of upkeep, we've introduced a nominal fee of just $5. 💵 This small investment will unlock a world of infinite coding possibilities and guarantee your spot among the truly dedicated.
 
 
 
@@ -98,8 +102,11 @@ In addition to our list of open source events and opportunities, we also provide
 
 Refer the template.md for more details
 
-## We invite you to join our WhatsApp group by clicking on the link https://chat.whatsapp.com/D7AuyMsNvB8173a34R3c0D . This group is a great place to meet fellow open source enthusiasts, ask questions, and share your own experiences.
+## We are absolutely thrilled to extend an exclusive invite to our vibrant WhatsApp group! Venture into the uncharted territories of open-source with like-minded enthusiasts. 💬
 
+## 🚀 Click here 👉 https://30dayscoding.com 🌐 to ignite your journey. This is the perfect playground to ask burning questions, share enlightening experiences, and create a network of inspiring individuals.
+
+But hold on, there's a catch! To ensure we foster a committed community and cover the costs of upkeep, we've introduced a nominal fee of just $5. 💵 This small investment will unlock a world of infinite coding possibilities and guarantee your spot among the truly dedicated.
 
 
 # :handshake: Our Contributors
