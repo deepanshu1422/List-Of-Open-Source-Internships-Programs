@@ -11,7 +11,7 @@ In addition to our list of open source events and opportunities, we also provide
   
   
 
-##  We invite you to join our WhatsApp group by clicking on the link https://nas.io/30dayscoding .  This group is a great place to meet fellow open source enthusiasts, ask questions, and share your own experiences. Ps. We've kept a small fee of 5$ so as to cover the cost of maintaining the group and screen out serious participants
+##  We invite you to join our WhatsApp group by clicking on the link https://30dayscoding.com .  This group is a great place to meet fellow open source enthusiasts, ask questions, and share your own experiences. Ps. We've kept a small fee of 5$ so as to cover the cost of maintaining the group and screen out serious participants
 
   
   
@@ -192,7 +192,7 @@ Refer the template.md for more details
 
   
 
-##  We invite you to join our WhatsApp group by clicking on the link https://nas.io/30dayscoding .  This group is a great place to meet fellow open source enthusiasts, ask questions, and share your own experiences. Ps. We've kept a small fee of 5$ so as to cover the cost of maintaining the group and screen out serious participants
+##  We invite you to join our WhatsApp group by clicking on the link https://30dayscoding.com .  This group is a great place to meet fellow open source enthusiasts, ask questions, and share your own experiences. Ps. We've kept a small fee of 5$ so as to cover the cost of maintaining the group and screen out serious participants
 
   
   
