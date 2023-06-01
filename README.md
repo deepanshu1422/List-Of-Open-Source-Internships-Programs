@@ -1,20 +1,21 @@
-🎉 Calling all open-source enthusiasts! 🎉
+**Hey there, fellow coders! 🚀**
 
-Are you ready to take your coding journey to the next level? Look no further! At 30dayscoding.com, we've curated an incredible sales funnel just for you. Our mission is to connect individuals like yourself with a community of passionate, like-minded people who are dedicated to contributing to the open-source movement.
+Are you on the lookout for a friendly, active community that's all about **coding , open source , jobs , internships** ? A place where you can find the best resources, get help whenever you need it, and grow along with like-minded coders? Your search ends at 30dayscoding.com.
 
-🔍 We understand the struggle of finding the right events, opportunities, and networking resources that align with your interests and goals. But worry no more! We've got you covered. Our repository is a treasure trove of open-source goodness, designed to make your search easier and more fruitful.
+Here's what you get when you join us:
 
-But that's not all! We offer so much more than just a list of events and opportunities. We provide a vibrant platform for networking and community building, and we want you to be a part of it. 🌐
+**24/7 Support**: Our Discord and WhatsApp groups are buzzing with activity, discussions, and help round the clock.
 
-💬 Here's the deal: We are thrilled to extend an exclusive invitation to our dynamic WhatsApp group. This is your chance to venture into uncharted territories of open-source with like-minded enthusiasts who share your burning passion for coding. 🚀
+**One-on-One Mentorship**: Need guidance? Get it directly from experienced mentors who have been there, done that.
 
-Are you ready to join this exciting community? Then click here 👉 https://30dayscoding.com to ignite your coding journey! This link will transport you to the perfect playground where you can ask those burning questions, share enlightening experiences, and build a network of inspiring individuals.
+[Deepanshu Udhwani (SWE MakemyTrip Ex. Alibaba Cloud) ](https://www.linkedin.com/in/deepanshu-udhwani/) ,
+ [Aryan Singh(SWE Google)](https://www.linkedin.com/in/singh1aryan/)
 
-But wait, there's something you should know. We believe in fostering a committed community, and to cover the costs of maintaining this incredible platform, we've introduced a nominal fee. For just $5, you can unlock a world of infinite coding possibilities and secure your spot among the truly dedicated. 💵
+**Free Guides & Resources**: No need to hunt for quality study materials. We've got a vast collection that you can access any time to learn at your own pace.
 
-So, what are you waiting for? Don't miss out on this opportunity to connect, learn, and grow with open-source enthusiasts from around the globe. Click the link now and let your coding journey begin!
+And the best part? All of this is available for just $5. That's less than the price of a medium size pizza! This small fee helps us keep this fantastic platform running smoothly and continue offering high-quality resources and experiences to you.
 
-👉 https://30dayscoding.com 👈
+So, why wait? Dive in and start your coding adventure with us at 👉 https://30dayscoding.com. It's the best place to connect, learn, and code. Let's do this together, shall we? Your coding journey just got exciting!
 
 [![30dayscoding.com](https://i.ibb.co/jGBLFqM/Screenshot-2023-05-10-at-9-08-39-AM.png)](https://30dayscoding.com)
 
@@ -115,11 +116,7 @@ Refer the template.md for more details
 [![30dayscoding.com](https://i.ibb.co/jGBLFqM/Screenshot-2023-05-10-at-9-08-39-AM.png)](https://30dayscoding.com)
 
 
-## We are absolutely thrilled to extend an exclusive invite to our vibrant WhatsApp group! Venture into the uncharted territories of open-source with like-minded enthusiasts. 💬
-
-## 🚀 Click here 👉 https://30dayscoding.com 🌐 to ignite your journey. This is the perfect playground to ask burning questions, share enlightening experiences, and create a network of inspiring individuals.
-
-But hold on, there's a catch! To ensure we foster a committed community and cover the costs of upkeep, we've introduced a nominal fee of just $5. 💵 This small investment will unlock a world of infinite coding possibilities and guarantee your spot among the truly dedicated.
+## 🚀 Click here 👉 https://30dayscoding.com 🌐 to ignite your journey. 
 
 
 # :handshake: Our Contributors
