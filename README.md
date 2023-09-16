@@ -66,6 +66,8 @@ So, why wait? Dive in and start your coding adventure with us at 👉 https://30
 | [Devtron](https://devtron.ai/careers.html) | Yes |  | | | N/A
 | [Nasqueron DevOps & Dev Open Source Program](http://join.nasqueron.org/) | No | | Whole Year | | N/A
 | [Social Summer Of Code (SSOC)](https://hack2skill.com/hack/ssoc) | No | [timeline](https://hack2skill.com/hack/ssoc)| Sat Apr 01 2023 | Mon Jul 31 2023 |N/A
+| [Keploy API Fellowship](https://fellowship.keploy.io/) | No | [timeline](https://fellowship.keploy.io/) | February <br> May <br> August <br> November |  | N/A
+| [Keploy DevRel Cohort](https://devrel.keploy.io/) | No | [timeline](https://devrel.keploy.io/) | June <br> September | | N/A
 
 * *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
 * ** OSoC is only open to Belgian students.
