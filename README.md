@@ -110,6 +110,7 @@ So, why wait? Dive in and start your coding adventure with us at 👉 https://30
 | [Hack-Club-SRM](https://github.com/Hack-Club-SRM/HCSSoC) (HCSSoC) | Certificates, SWAGs | [timeline](https://github.com/Hack-Club-SRM/HCSSoC#timeline)|
 | [Cross Winter of code](https://crosswoc.ieeedtu.in/) (CrossWoC) | Certificates, SWAGs | [timeline](https://crosswoc.ieeedtu.in/#schedule)|
 | [IIIT-Kalyani Winter of code](https://gdsc-woc.tech/) (WoC 2.0) | Certificates, SWAGs | [timeline](https://gdsc-woc.tech/#timeline)|
+| [NITK Winter of Code](http://woc.nitk.ac.in/) | Certificates | |
 
 Refer the template.md for more details
 
