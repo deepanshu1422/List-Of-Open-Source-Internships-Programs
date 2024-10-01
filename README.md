@@ -92,7 +92,7 @@ Ready to elevate your coding game? [Click here to join 30 Days Coding](https://3
 | [FOSS Overflow](https://fossoverflow.dev/) | Stipend up to 10k INR & Swags & Certification (WOC) | [Timeline](https://fossoverflow.dev/) |
 | [JGEC Winter of Code](https://jgec-winter-of-code.github.io/) | Certificates & swag rewards & Cash | [Timeline](https://jwoc2k20.tech/#timeline) |
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html) | Swag rewards | |
-| [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards | [Timeline](https://njackwinterofcode.github.io/) |
+| [NJACK Winter Of Code](https://www.codepeak.tech/) | Swag rewards | [Timeline](https://www.codepeak.tech/) |
 | [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org/) | Swag rewards | [Timeline](https://kwoc.kossiitkgp.org/#tline) |
 | [OpenCode IIITA](https://opencodeiiita.github.io/) | Swag rewards | |
 | [FOSSEE Summer Fellowship](https://fossee.in/) | Yes | |
