@@ -106,6 +106,7 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 | [Springboard](https://www.springboard.com/) | Income Share Agreement | 6-9 months | Online | Data science, UX design |
 | [Fullstack Academy](https://www.fullstackacademy.com/) | Paid | 13-17 weeks | Online/In-person | Full-stack development |
 | [Thinkful](https://www.thinkful.com/) | Income Share Agreement | 5-6 months | Online | Software engineering, data science |
+| [Codeworks](https://codeworks.me) | Income Share Agreement | Various | Online/In-person | Software engineering, web development, JavaScript |
 
 Remember to always check the official websites for the most up-to-date information on these programs, as details may change from year to year.
 
