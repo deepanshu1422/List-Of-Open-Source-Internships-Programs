@@ -76,12 +76,14 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 | [Uber AI Residency](https://www.uber.com/us/en/careers/listings/94893/) | Salary | 1 year | Recent graduates or students | AI research |
 | [OpenAI Scholars Program](https://openai.com/blog/openai-scholars-spring-2020/) | Stipend | 4 months | Underrepresented groups in AI | AI research |
 | [Mozilla Fellowship Program](https://foundation.mozilla.org/en/fellowships/) | Stipend | 10 months | Researchers, activists, artists | Internet health |
+| [Keploy API Fellowship](https://fellowship.keploy.io/) | Internship & PPO opportunities | 2 weeks | Students and early professionals | Software and API development |
 
 ## 🌐 Open Source Foundations' Programs
 
 | Name | Stipend | Timeline | Eligibility | Focus |
 |------|---------|----------|-------------|-------|
 | [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) | No | Winter months | University students | Web security |
+| [Keploy API Fellowship](https://keploy.io/) | Internship & PPO opportunities | 2 weeks | Open to all | API Development |
 | [Free Software Foundation Internship](https://www.fsf.org/volunteer/internships) | No | Multiple batches | Open to all | Free software movement |
 | [Radare Summer of Code](https://rada.re/rsoc/) | Yes | Summer months | Open to all | Reverse engineering |
 | [X.Org Endless Vacation of Code](https://www.x.org/wiki/XorgEVoC/) | Yes | Year-round | Open to all | X.Org projects |
@@ -97,6 +99,7 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 | Name | Cost | Duration | Mode | Focus |
 |------|------|----------|------|-------|
 | [30 Days Coding](https://30dayscoding.com) | Affordable | 30 days | Online | Various tech stacks |
+| [Keploy API Fellowship](https://keploy.io/) | Internship & PPO opportunities | 2 weeks | Online | Fullstack and API Development |
 | [Lambda School](https://lambdaschool.com/) | Income Share Agreement | 9 months | Online | Full-stack development |
 | [Hack Reactor](https://www.hackreactor.com/) | Paid | 12 weeks | Online/In-person | Full-stack JavaScript |
 | [App Academy](https://www.appacademy.io/) | Income Share Agreement | 24 weeks | Online/In-person | Full-stack development |
