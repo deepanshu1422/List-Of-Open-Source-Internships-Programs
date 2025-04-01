@@ -61,6 +61,7 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 | [SIH (Smart India Hackathon)](https://www.sih.gov.in/) | Cash prizes | Annual | Indian students | Various |
 | [MIT Battle of Codes](https://battleofcodes.mit.edu/) | Prizes | Annual | University students | Competitive programming |
 | [IIT Bombay Summer Internship](https://www.it.iitb.ac.in/summerinternship2020/) | Stipend | Summer months | University students | Various IT projects |
+| [FOSS Overflow, IIT Bhilai](https://fossoverflow.dev/) | Stipend | Winter months | Indian universities | [OpenLake](https://github.com/OpenLake) projects |
 
 ## 💼 Company-specific Programs
 
