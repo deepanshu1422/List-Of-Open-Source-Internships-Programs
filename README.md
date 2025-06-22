@@ -21,7 +21,6 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 | [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) | Yes | Feb-Nov annually | University students and recent graduates | [GSoC Application Process](https://summerofcode.withgoogle.com/how-it-works) | Various |
 | [MLH Fellowship](https://fellowship.mlh.io/) | Yes | Spring, Summer, Fall batches | Open to all | [MLH Application](https://fellowship.mlh.io/programs/open-source) | Various |
 | [Outreachy](https://www.outreachy.org/) | Yes | Dec-Mar & May-Aug | Underrepresented groups in tech | [Outreachy Apply](https://www.outreachy.org/apply/) | Various |
-| [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | Mar-Nov annually | Technical writers | [Season of Docs How to Apply](https://developers.google.com/season-of-docs/docs/tech-writer-guide) | Documentation |
 | [LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Yes | Multiple batches | Varies by project | [LFX Mentorship Apply](https://docs.linuxfoundation.org/lfx/mentorship/mentor-guide) | Linux Foundation projects |
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Yes | Summer months | University students | [Summer of Bitcoin Apply](https://www.summerofbitcoin.org/how-it-works) | Bitcoin, Blockchain |
 | [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program) | Yes | Multiple batches | Open to all | [Hyperledger Mentorship Apply](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Blockchain |
@@ -29,7 +28,6 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 | [Open Mainframe Project Mentorship Program](https://www.openmainframeproject.org/projects/mentorship-program) | Yes | Multiple batches | University students | [Open Mainframe Apply](https://www.openmainframeproject.org/projects/mentorship-program) | Mainframe technologies |
 | [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/) | Prizes | Annual | University students | [Red Hat Contest Details](https://research.redhat.com/red-hat-open-source-contest/) | Open source projects |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Cash prizes | Annual | Open to all | [OSS World Challenge Details](https://www.oss.kr/en_oss_world_challenage) | Open source projects |
-| [Google Season of Docs](https://developers.google.com/season-of-docs) | Yes | Annual | Technical writers | [Season of Docs Apply](https://developers.google.com/season-of-docs/docs/get-started) | Open source documentation |
 | [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/) | Yes | Summer | Students & early-career developers | [Igalia Program Details](https://www.igalia.com/coding-experience/) | Web technologies |
 
 ## 🌱 Seasonal Programs and Competitions
