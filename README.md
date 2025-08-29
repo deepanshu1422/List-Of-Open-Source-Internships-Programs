@@ -33,6 +33,7 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 | Name | Rewards | Timeline | Eligibility | Focus |
 |------|---------|----------|-------------|-------|
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag | October annually | Open to all | Open source contributions |
+| [Apertre 2.0](https://s2apertre.resourcio.in/) | PrizePool Worth of 20K (Including Swags) | March 7 to April 5 (2025) | Open to all | Open Source Contributions |
 | [24 Pull Requests](https://24pullrequests.com/) | No prizes | December annually | Open to all | Open source contributions |
 | [GirlScript Summer of Code](https://gssoc.girlscript.tech/) | Prizes, internships | Summer months | Open to all | Various |
 | [Advent of Code](https://adventofcode.com/) | Learning | December annually | Open to all | Programming puzzles |
