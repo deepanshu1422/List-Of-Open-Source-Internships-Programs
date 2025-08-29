@@ -21,15 +21,11 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 | [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) | Yes | Feb-Nov annually | University students and recent graduates | [GSoC Application Process](https://summerofcode.withgoogle.com/how-it-works) | Various |
 | [MLH Fellowship](https://fellowship.mlh.io/) | Yes | Spring, Summer, Fall batches | Open to all | [MLH Application](https://fellowship.mlh.io/programs/open-source) | Various |
 | [Outreachy](https://www.outreachy.org/) | Yes | Dec-Mar & May-Aug | Underrepresented groups in tech | [Outreachy Apply](https://www.outreachy.org/apply/) | Various |
-| [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | Mar-Nov annually | Technical writers | [Season of Docs How to Apply](https://developers.google.com/season-of-docs/docs/tech-writer-guide) | Documentation |
 | [LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/) | Yes | Multiple batches | Varies by project | [LFX Mentorship Apply](https://docs.linuxfoundation.org/lfx/mentorship/mentor-guide) | Linux Foundation projects |
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Yes | Summer months | University students | [Summer of Bitcoin Apply](https://www.summerofbitcoin.org/how-it-works) | Bitcoin, Blockchain |
 | [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program) | Yes | Multiple batches | Open to all | [Hyperledger Mentorship Apply](https://wiki.hyperledger.org/display/INTERN/How+to+Apply) | Blockchain |
-| [Julia Seasons of Contributions (JSoC)](https://julialang.org/jsoc/) | Yes | Summer months | Open to all | [JSoC Guidelines](https://julialang.org/jsoc/guidelines/) | Julia language |
-| [Open Mainframe Project Mentorship Program](https://www.openmainframeproject.org/projects/mentorship-program) | Yes | Multiple batches | University students | [Open Mainframe Apply](https://www.openmainframeproject.org/projects/mentorship-program) | Mainframe technologies |
-| [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/) | Prizes | Annual | University students | [Red Hat Contest Details](https://research.redhat.com/red-hat-open-source-contest/) | Open source projects |
+| [Open Mainframe Project Mentorship Program](https://openmainframeproject.org/community/mentorship-program/) | Yes | Multiple batches | University students | [Open Mainframe Apply](https://openmainframeproject.org/community/mentorship-program/) | Mainframe technologies |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Cash prizes | Annual | Open to all | [OSS World Challenge Details](https://www.oss.kr/en_oss_world_challenage) | Open source projects |
-| [Google Season of Docs](https://developers.google.com/season-of-docs) | Yes | Annual | Technical writers | [Season of Docs Apply](https://developers.google.com/season-of-docs/docs/get-started) | Open source documentation |
 | [Igalia Coding Experience Program](https://www.igalia.com/coding-experience/) | Yes | Summer | Students & early-career developers | [Igalia Program Details](https://www.igalia.com/coding-experience/) | Web technologies |
 
 ## 🌱 Seasonal Programs and Competitions
@@ -38,12 +34,9 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 |------|---------|----------|-------------|-------|
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag | October annually | Open to all | Open source contributions |
 | [24 Pull Requests](https://24pullrequests.com/) | No prizes | December annually | Open to all | Open source contributions |
-| [Google Code-in](https://codein.withgoogle.com/) | Prizes, trip | Nov-Jan annually | Pre-university students (13-17) | Various |
-| [FOSSASIA Codeheat](https://codeheat.org/) | Cash prizes | Oct-Feb annually | Open to all | FOSSASIA projects |
 | [GirlScript Summer of Code](https://gssoc.girlscript.tech/) | Prizes, internships | Summer months | Open to all | Various |
 | [Advent of Code](https://adventofcode.com/) | Learning | December annually | Open to all | Programming puzzles |
 | [CodeForces](https://codeforces.com/) | Ratings, prizes | Year-round | Open to all | Competitive programming |
-| [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) | Prizes | Multiple rounds annually | Open to all | Competitive programming |
 | [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/) | Cash prizes | Annual | Open to all | Competitive programming |
 | [ACM ICPC](https://icpc.global/) | Medals, prizes | Annual | University students | Competitive programming |
 
@@ -68,28 +61,12 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 | Name | Stipend | Timeline | Eligibility | Focus |
 |------|---------|----------|-------------|-------|
 | [Microsoft Reinforcement Learning Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) | Yes | Summer months | University students | Reinforcement Learning |
-| [IBM Quantum Challenge](https://quantum-computing.ibm.com/challenges) | Prizes | Multiple times a year | Open to all | Quantum Computing |
-| [Alibaba Summer of Code](https://www.alibabacloud.com/campaign/summerofcode2020) | Yes | Summer months | University students | Alibaba Cloud projects |
-| [GitHub Externship](https://externship.github.in/) | Yes | Multiple batches | Indian university students | Various |
-| [Google AI Residency Program](https://research.google/careers/ai-residency/) | Salary | 18 months | Recent graduates or students | AI research |
-| [Facebook AI Residency Program](https://research.fb.com/programs/facebook-ai-residency-program/) | Salary | 1 year | Recent graduates or students | AI research |
-| [Amazon Science Internship](https://www.amazon.science/internships) | Yes | Summer | University students | Various research areas |
-| [Uber AI Residency](https://www.uber.com/us/en/careers/listings/94893/) | Salary | 1 year | Recent graduates or students | AI research |
-| [OpenAI Scholars Program](https://openai.com/blog/openai-scholars-spring-2020/) | Stipend | 4 months | Underrepresented groups in AI | AI research |
-| [Mozilla Fellowship Program](https://foundation.mozilla.org/en/fellowships/) | Stipend | 10 months | Researchers, activists, artists | Internet health |
 
 ## 🌐 Open Source Foundations' Programs
 
 | Name | Stipend | Timeline | Eligibility | Focus |
 |------|---------|----------|-------------|-------|
-| [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) | No | Winter months | University students | Web security |
 | [Free Software Foundation Internship](https://www.fsf.org/volunteer/internships) | No | Multiple batches | Open to all | Free software movement |
-| [Radare Summer of Code](https://rada.re/rsoc/) | Yes | Summer months | Open to all | Reverse engineering |
-| [X.Org Endless Vacation of Code](https://www.x.org/wiki/XorgEVoC/) | Yes | Year-round | Open to all | X.Org projects |
-| [Apache Software Foundation Internship](https://community.apache.org/gsoc.html) | Varies | Various | University students | Apache projects |
-| [GNOME Internships](https://wiki.gnome.org/Internships) | Yes | Various | Open to all | GNOME projects |
-| [Wikimedia Internship Program](https://www.mediawiki.org/wiki/Internships) | Yes | Various | Open to all | Wikimedia projects |
-| [Open Robotics Internship Program](https://www.openrobotics.org/interns) | Yes | Summer | University students | Robotics software |
 | [Python Software Foundation Fellowship Program](https://www.python.org/psf/grants/) | Grants | Rolling | Open to all | Python ecosystem |
 | [The Processing Foundation Fellowships](https://processingfoundation.org/fellowships) | Stipend | Annual | Open to all | Art, technology, education |
 
