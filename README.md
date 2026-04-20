@@ -86,6 +86,7 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 | [Fullstack Academy](https://www.fullstackacademy.com/) | Paid | 13-17 weeks | Online/In-person | Full-stack development |
 | [Thinkful](https://www.thinkful.com/) | Income Share Agreement | 5-6 months | Online | Software engineering, data science |
 | [Codeworks](https://codeworks.me) | Income Share Agreement | Various | Online/In-person | Software engineering, web development, JavaScript |
+| [Masteringbackend](https://masteringbackend.com?ref=30daysofcoding) | Free (3 months) | Various | Online/In-person | Backend engineering, web development, Software Engineering |
 
 Remember to always check the official websites for the most up-to-date information on these programs, as details may change from year to year.
 
