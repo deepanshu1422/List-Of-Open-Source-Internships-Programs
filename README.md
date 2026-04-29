@@ -70,9 +70,6 @@ Don't miss out on this transformative experience! [Join 30 Days Coding now](http
 | [Free Software Foundation Internship](https://www.fsf.org/volunteer/internships) | No | Multiple batches | Open to all | Free software movement |
 | [Python Software Foundation Fellowship Program](https://www.python.org/psf/grants/) | Grants | Rolling | Open to all | Python ecosystem |
 | [The Processing Foundation Fellowships](https://processingfoundation.org/fellowships) | Stipend | Annual | Open to all | Art, technology, education |
-| [Free Software Foundation Internship](https://www.fsf.org/volunteer/internships) | No | Multiple batches | Open to all | Free software movement |
-| [Python Software Foundation Fellowship Program](https://www.python.org/psf/grants/) | Grants | Rolling | Open to all | Python ecosystem |
-| [The Processing Foundation Fellowships](https://processingfoundation.org/fellowships) | Stipend | Annual | Open to all | Art, technology, education |
 | [Sovereign Tech Fellowship (STF)](https://www.sovereign.tech/programs/fellowship) | Yes | Annual | Open to all | Open source digital infrastructure |
 
 ## 🚀 Coding Bootcamps and Intensive Programs
